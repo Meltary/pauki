@@ -1,0 +1,21 @@
+﻿<Window x:Class="Programm2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+       Title="Паучки" Height="417" Width="415" Loaded="Window_Loaded_1" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" PreviewKeyDown="Window_PreviewKeyDown_1">
+    <Canvas Name="canv">
+        <Canvas.Background>
+            <DrawingBrush Viewport="0,0,20,20" ViewportUnits="Absolute" TileMode="Tile">
+                <DrawingBrush.Drawing>
+                    <GeometryDrawing Brush="Black">
+                        <GeometryDrawing.Geometry>
+                            <GeometryGroup FillRule="EvenOdd">
+                                <RectangleGeometry Rect="0,0,50,50" />
+                                <RectangleGeometry Rect="0,0,49,49" />
+                            </GeometryGroup>
+                        </GeometryDrawing.Geometry>
+                    </GeometryDrawing>
+                </DrawingBrush.Drawing>
+            </DrawingBrush>
+        </Canvas.Background>
+    </Canvas>
+</Window>

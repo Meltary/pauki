@@ -1,0 +1,13 @@
+G:\MyProgramm\программаХ\Programm2\Programm2\bin\Debug\Programm2.exe.config
+G:\MyProgramm\программаХ\Programm2\Programm2\bin\Debug\Programm2.exe
+G:\MyProgramm\программаХ\Programm2\Programm2\bin\Debug\Programm2.pdb
+G:\MyProgramm\программаХ\Programm2\Programm2\obj\Debug\Programm2.csprojResolveAssemblyReference.cache
+G:\MyProgramm\программаХ\Programm2\Programm2\obj\Debug\MainWindow.baml
+G:\MyProgramm\программаХ\Programm2\Programm2\obj\Debug\MainWindow.g.cs
+G:\MyProgramm\программаХ\Programm2\Programm2\obj\Debug\App.g.cs
+G:\MyProgramm\программаХ\Programm2\Programm2\obj\Debug\Programm2_MarkupCompile.cache
+G:\MyProgramm\программаХ\Programm2\Programm2\obj\Debug\Programm2.g.resources
+G:\MyProgramm\программаХ\Programm2\Programm2\obj\Debug\Programm2.Properties.Resources.resources
+G:\MyProgramm\программаХ\Programm2\Programm2\obj\Debug\Programm2.csproj.GenerateResource.Cache
+G:\MyProgramm\программаХ\Programm2\Programm2\obj\Debug\Programm2.exe
+G:\MyProgramm\программаХ\Programm2\Programm2\obj\Debug\Programm2.pdb
